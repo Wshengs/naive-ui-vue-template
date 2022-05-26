@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.idea
+smartmontools.md
+zsh_history.md
+/*.md
